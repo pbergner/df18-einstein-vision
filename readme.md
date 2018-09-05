@@ -1,5 +1,5 @@
 <h1>Dreamforce 2018 Einstein Vision Helper</h1>
-<p>This repository is designed to accompany my Dreamforce 2018 presentation on quickly configuring Einstein Vision.</p>
+<p>This repository works in tandem with my Dreamforce 2018 Presentation "Explore how Einstein Vision can help categorize your photos". It is used to jumpstart utilizing Einstein Vision in your org.</p>
 <p>To install the unmanaged package please use the deploy button below</p>
 <p>
 	<a href="https://githubsfdeploy.herokuapp.com?owner=pbergner&repo=df18-einstein-vision&ref=master">
