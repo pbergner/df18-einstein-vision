@@ -37,6 +37,10 @@
         <members>Einstein_Details__mdt-Einstein Details Layout</members>
         <name>Layout</name>
     </types>
+     <types>
+        <members>*</members>
+        <name>PermissionSet</name>
+    </types>
     <types>
         <members>Einstein_API</members>
         <name>RemoteSiteSetting</name>
