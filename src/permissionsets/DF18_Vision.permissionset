@@ -10,4 +10,8 @@
         <apexPage>EinsteinVision</apexPage>
         <enabled>true</enabled>
     </pageAccesses>
+    <tabSettings>
+        <tab>Einstein_Vision</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
 </PermissionSet>
