@@ -10,7 +10,7 @@
 <p>Here are a few other helpful links:<br/>
 	<ul>
 		<li><a href="/pbergner/df18-einstein-vision/raw/master/einstein%20command%20cheatsheet.docx">Einstein command cheatsheet</a></li>
-		<li><a href="/pbergner/df18-einstein-vision/blob/master/df18.pptx">My presentation slidedeck</a></li>
+		<li><a href="/pbergner/df18-einstein-vision/raw/master/df18.pptx">My presentation slidedeck</a></li>
 		<li><a href="https://trailhead.salesforce.com/en/projects/predictive_vision_apex">Einstein Image Classification Trailhead</a></li>
 		<li><a href="https://github.com/muenzpraeger/salesforce-einstein-platform-apex">A more comprehensive solution to handling Einstein callouts from Apex</a></li>
 	</ul>
