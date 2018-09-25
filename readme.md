@@ -13,5 +13,7 @@
 		<li><a href="https://github.com/pbergner/df18-einstein-vision/blob/master/df18.pptx">My presentation slidedeck</a></li>
 		<li><a href="https://trailhead.salesforce.com/en/projects/predictive_vision_apex">Einstein Image Classification Trailhead</a></li>
 		<li><a href="https://github.com/muenzpraeger/salesforce-einstein-platform-apex">A more comprehensive solution to handling Einstein callouts from Apex</a></li>
+		<li><a href="https://api.einstein.ai/signup">Einstein Signup</a></li>
+		<li><a href="https://api.einstein.ai/token">Generate an Einstein Token</a></li>
 	</ul>
 </p>
