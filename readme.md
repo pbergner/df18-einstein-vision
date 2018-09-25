@@ -15,5 +15,6 @@
 		<li><a href="https://github.com/muenzpraeger/salesforce-einstein-platform-apex">A more comprehensive solution to handling Einstein callouts from Apex</a></li>
 		<li><a href="https://api.einstein.ai/signup">Einstein Signup</a></li>
 		<li><a href="https://api.einstein.ai/token">Generate an Einstein Token</a></li>
+		<li><a href="https://metamind.readme.io/">Einstein API Documentation</a></li>
 	</ul>
 </p>
